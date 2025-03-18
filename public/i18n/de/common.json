@@ -3,8 +3,9 @@
   "about": {
     "buttonTextOpen": "über",
     "buttonTextClose": "schließen",
-    "title": "Hi, ich bin Luisa :)",
-    "text": "Hier Text auf deutsch",
+    "heading": "Hi, ich bin Luisa :)",
+    "subheading": "Warum ein Sticker-Portfolio?",
+    "text": "Alles begann mit meinem ersten Programmier-Workshop, bei dem ich zum ersten Mal die Welt des Codens für mich entdeckte. Seitdem sammle ich Sticker von den wichtigsten Stationen meiner Reise: von meinen ersten Schritten mit den Django Girls über meine Ausbildung im Full Stack Development bis hin zu meinen ersten Jobs und Herzensprojekten in der IT. Jeder Sticker steht für einen besonderen Moment, eine wertvolle Erfahrung oder eine Community, die mich inspiriert hat. Besonders am Herzen liegen mir Nachhaltigkeit und Diversität in der Tech-Welt. Ich setze mich dafür ein, mehr Menschen den Zugang zur IT zu erleichtern, gerechte Repräsentation zu fördern und durch Technologie einen positiven Wandel voranzutreiben. Meine Reise geht weiter – ich bin gespannt, welchen Sticker ich als Nächstes aufkleben werde!",
     "contact": {
       "text": "Möchtest du Kontakt aufnehmen?",
       "email": "Schick mir eine Mail",
@@ -16,7 +17,7 @@
     {
       "id": 1,
       "title": "Django Girls",
-      "text": "Meine erste Zeilen Code hab ich im Herbst 2019 bei einem Workshop der Django Girls geschrieben. Zu der Zeit hab ich noch Kulturwissenschaften im Master an der Uni Leipzig studiert und hatte gerade mein 1000. Praktikum im Kultursektor abgeschlossen, auf der Suche nach etwas, was mich langfristig begeistern würde. Die Begeisterung habe ich dann im Programmieren gefunden und die Reise ging los.",
+      "text": "Meine erste Zeilen Code hab ich im Herbst 2019 bei einem Workshop der Django Girls geschrieben. Zu der Zeit hab ich noch Kulturwissenschaften im Master an der Uni Leipzig studiert und hatte gerade mein 1000. Praktikum im Kultursektor abgeschlossen, auf der Suche nach einer Tätigkeit, die mich langfristig begeistern würde. Die Begeisterung habe ich dann aber plötzlich im Programmieren gefunden und so ging das los mit den Stickern auf meinem Laptop.",
       "src": "src/assets/stickers/djangogirls.png",
       "url": "https://djangogirls.org/en/leipzig/"
     },
@@ -30,59 +31,58 @@
     {
       "id": 3,
       "title": "Digital Career Institute",
-      "text": "Nachdem ich meinen Master 2020 abgeschlossen habe entschied ich mich für eine einjährige Weiterbildung im Bereich Full Stack Web Development. Der Fokus lag dabei auf dem so genannten MERN-Stack: MongoDB, Express, React, Node.js.",
+      "text": "Nachdem ich meinen Master 2020 abgeschlossen habe entschied ich mich für eine einjährige Weiterbildung im Bereich Full Stack Web Development. Der Fokus lag nach dem Erlernen der Grundlagen von HTML und CSS auf dem so genannten MERN-Stack: MongoDB, Express, React, Node.js. Ein Jahr voller Input, das mir sehr viel Spaß gemacht hat.",
       "src": "src/assets/stickers/dci.png",
       "url": "https://start.digitalcareerinstitute.org/"
     },
     {
       "id": 4,
       "title": "React.js",
-      "text": "React war das erste Framework, das ich im Rahmen der Weiterbildung kennen gelernt habe. Seit 2021 arbeite ich damit nahezu täglich, bin aber freu mich auch, zukünftig noch andere Frameworks zu lernen.",
+      "text": "React war das erste Framework, das ich im Rahmen der Weiterbildung kennen gelernt habe. Seit 2021 arbeite ich damit nahezu täglich, aber freu mich auch, zukünftig auch mit anderen Frameworks zu arbeiten. Generell mag ich es immer sehr gerne, meinen Horizont zu erweitern und über den Tellerrand hinauszuschauen, das gilt für Technologien genau wie für alles andere.",
       "src": "src/assets/stickers/react.png"
     },
     {
       "id": 5,
       "title": "Thinkport GmbH",
-      "text": "Direkt im Anschluss an die Weiterbildung hab ich bei Thinkport zu arbeiten, als Frontendentwicklerin in einem Kundenprojekt für die Bayer Crop Science Division. Als Teil eines siebenköpfigen Scrum-Teams war ich für die Konzeption und Entwicklung einer Webapplikation zuständig, die Wissenschaftler:innen die Visualisierung und interaktive Analyse ihrer modellgenerierten Laborergebnisse ermöglicht – von anfänglichen User Interviews über die agile Produktentwicklung bishin zur produktiven Anwendung.",
+      "text": "Direkt im Anschluss an die Weiterbildung hab ich angefangen bei Thinkport zu arbeiten, als Frontendentwicklerin in einem Kundenprojekt für die Bayer Crop Science Division. Als Teil eines siebenköpfigen Scrum-Teams war ich für die Konzeption und Entwicklung einer Webapplikation zuständig, die Wissenschaftler:innen die Visualisierung und interaktive Analyse ihrer modellgenerierten Laborergebnisse ermöglicht – von anfänglichen User Interviews über die agile Produktentwicklung bishin zur produktiven Anwendung.",
       "src": "src/assets/stickers/thinkport.png",
       "url": "https://thinkport.digital/"
     },
     {
       "id": 6,
       "title": "TypeScript",
-      "text": "In der Weiterbildung hab ich zwar zuerst JavaScript gelernt, im Beruf dann aber nur noch mit TypeScript gearbeitet.",
+      "text": "Auch wenn ich JavaScript zunächst während meiner Ausbildung gelernt habe, liegt meine praktische Erfahrung hauptsächlich in TypeScript. Durch die strikte Typisierung und die verbesserten Entwicklungswerkzeuge gestaltet sich die Entwicklung besonders bei großen Anwendungen effizienter und zuverlässiger. TypeScript hilft, Fehler frühzeitig zu erkennen, und fördert eine reibungslose Zusammenarbeit, indem es eine klare Struktur und aussagekräftige Typdefinitionen bietet.",
       "src": "src/assets/stickers/typescript.png"
     },
     {
       "id": 7,
       "title": "Girls Day",
-      "text": "Ich selbst hatte während meiner Schulzeit kaum Berührungspunkte mit Technik, mein Fokus lag auf Sprachen und allen musischen Fächern – so kam es dann wohl auch zum Studium der Kulturwissenschaften, für das ich mich mit 19 entschied. Rückblickend würde ich das Studium nicht missen wollen, aber manchmal denke ich, dass ich meine Begeisterung fürs Programmieren auch gern schon ein paar Jahre früher entdeckt hätte. Den Girls Day finde ich eine gute Sache und ich hab mich gefreut, ihn in der Firma zwei mal mitgestalten zu können.",
+      "text": "Ich selbst hatte während meiner Schulzeit kaum Berührungspunkte mit Technik, mein Fokus lag auf Sprachen und allen musischen Fächern – so kam es dann wohl auch zum Studium der Kulturwissenschaften, für das ich mich mit 19 entschied. Rückblickend würde ich mein Studium auf keinen Fall missen wollen, aber manchmal denke ich, dass ich meine Begeisterung fürs Programmieren auch gern schon ein paar Jahre früher entdeckt hätte. Den Girls Day finde ich eine gute Sache und ich hab mich gefreut, ihn in der Firma zwei mal mitgestalten zu können.",
       "src": "src/assets/stickers/girlsday.png"
     },
     {
       "id": 8,
       "title": "FLINTA*DEVS",
-      "year": 2023,
-      "text": "Zusammen mit einigen engagierten Kolleginnen habe ich während der Zeit bei Thinkport ein monatliches Meetup für FLINTA*-Personen gestartet, das uns Entwicklerinnen sowohl zum technischen Wissensaustausch, als auch als Raum für Erfahrungsaustausch und zur Diskussion über Diversität in der Tech Branche diente. Die Treffen haben immer richtig gut getan, es gab Raum für technische Fragen, aber auch um in einem geschützten Raum über Erfahrungen aus dem Arbeitsalltag zu sprechen.",
+      "text": "Zusammen mit einigen engagierten Kolleginnen habe ich während der Zeit bei Thinkport ein monatliches Meetup für FLINTA*-Personen gestartet, das uns Entwicklerinnen sowohl zum technischen Wissensaustausch, als auch als Raum für Erfahrungsaustausch und zur Diskussion über Diversität in der Tech Branche diente. Die Treffen haben immer richtig gut getan, es gab Zeit für berufliche Fragen, aber auch die Möglichkeit, in einem geschützten Raum über Erfahrungen aus dem Arbeitsalltag zu sprechen.",
       "src": "src/assets/stickers/flintadevs.png"
     },
     {
       "id": 9,
       "title": "TailwindCSS",
-      "text": "Zunächst hab ich in meiner Weiterbildung klassisches CSS und SCSS gelernt, im Projekt bei der Arbeit dann täglich mit TailwindCSS gearbeitet.",
+      "text": "Ich habe in meiner Ausbildung mit klassischem CSS und SCSS begonnen, aber im Job bin ich schnell auf TailwindCSS umgestiegen. Es ermöglicht schnelles Prototyping und sorgt für ein konsistentes Styling, ohne dass ich für jede Komponente eigenes CSS schreiben muss. Da ich ein gutes Gespür für Design habe, schätze ich besonders die Flexibilität von Tailwind – es ermöglicht mir, Layouts schnell anzupassen, Designs zu verändern und meinen Code sauber und wartbar zu halten.",
       "src": "src/assets/stickers/tailwind.png"
     },
     {
       "id": 10,
       "title": "Hack for Good",
-      "text": "Das war mein erster Hackathon. Mit technischen Skills soziale Projekte zu unterstützen liegt mir am Herzen.",
+      "text": "Das war mein erster Hackathon. Mit technischen Skills soziale Projekte zu unterstützen liegt mir am Herzen und ich hoffe, dazu in Zukunft noch mehr Gelegenheit zu haben.",
       "src": "src/assets/stickers/hackforgood.png",
       "url": "https://www.hack-for-good.de"
     },
     {
       "id": 11,
       "title": "DiversIT | Cluster IT Mitteldeutschland",
-      "text": "Bei der Auftaktveranstaltung der Veranstaltungsreihe 'DiversIT: Women in IT', durfte ich mit anderen Frauen aus der IT-Branche bei einer Paneldiskussion darüber sprechen.",
+      "text": "Bei der Auftaktveranstaltung der Veranstaltungsreihe 'DiversIT: Women in IT', durfte ich mit anderen Frauen aus der IT-Branche bei einer Paneldiskussion darüber sprechen, was es braucht, um mehr Diversität in der IT zu erreichen. Aus meiner Sicht zum Beispiel: nahbare Vorbilder und die Möglichkeit, mit ihnen ins Gespräch zu kommen. Für mich war es wichtig, andere Frauen zu kennen, die ebenfalls auf Umwegen ihren Weg in die Tech-Branche gefunden haben und zu verstehen, dass man weder in der Schule gut in Mathe gewesen sein muss, noch mit acht schon Roboter gebaut haben, um Freude am Programmieren haben zu können.",
       "src": "src/assets/stickers/diversit.png",
       "url": "https://it-mitteldeutschland.de/event/diversit-women-in-it/"
     },
@@ -96,16 +96,21 @@
     {
       "id": 13,
       "title": "Thinkport GmbH",
-      "year": "2022 bis 2024",
-      "text": "Nach knapp drei auf vielen Ebenen sehr aufregenden und lehrreichen Jahren bei Thinkport habe ich mich entschieden, nach einer neuen beruflichen Herausforderung zu suchen. Das Kundenprojekt war abgeschlossen und ich hatte das Gefühl, es ist Zeit für etwas Neues. Also habe ich zu Ende 2024 gekündigt und angefangen die Fühler nach Jobs auszustrecken, in denen ich die Arbeit in der IT mit meinen sozialen und ökologischen Ansprüchen verbinden kann.",
+      "text": "Nach knapp drei auf vielen Ebenen sehr aufregenden und lehrreichen Jahren bei Thinkport habe ich mich entschieden, nach einer neuen beruflichen Herausforderung zu suchen. Das Kundenprojekt, an dem ich während der gesamten Zeit dort gearbeitet hatte, war erfolgreich abgeschlossen und ich hatte das Gefühl, es ist Zeit für etwas Neues. Also habe ich zu Ende 2024 gekündigt und angefangen die Fühler nach Jobs auszustrecken, in denen ich die Arbeit in der IT mit meinen sozialen und ökologischen Ansprüchen verbinden kann.",
       "src": "src/assets/stickers/thinkport.png"
     },
     {
       "id": 14,
       "title": "neuedev IT",
-      "text": "Seit Anfang 2025 arbeite ich als Entwicklerin in einem IT-Kollektiv, das sich der Entwicklung technischer Lösungen für gemeinnützige Projekte verschrieben hat.",
+      "text": "Seit Anfang 2025 arbeite ich als Entwicklerin in einem IT-Kollektiv, das seinen Fokus auf die Entwicklung vom Software für gemeinnützige Projekte legt.",
       "src": "src/assets/stickers/neuedev.png",
       "url": ""
+    },
+    {
+      "id": 15,
+      "title": "Was kommt als nächstes?",
+      "text": "???",
+      "src": "?"
     }
   ]
 }

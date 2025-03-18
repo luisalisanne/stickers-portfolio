@@ -22,7 +22,7 @@ function StickerGallery() {
 
   return screenSize.width > 768 ? (
     <>
-      <div className="m-auto grid aspect-16/10 w-[80%] grid-cols-5 grid-rows-3 overflow-hidden rounded-2xl bg-[url(/src/assets/images/macbook.png)] bg-cover bg-center p-12">
+      <div className="m-auto grid aspect-16/10 w-[80%] grid-cols-5 grid-rows-3 content-evenly items-center justify-items-center overflow-hidden rounded-2xl bg-[url(/src/assets/images/macbook.png)] bg-cover bg-center p-12">
         {/* For each sticker in the list, render an image item that displays some information on hover*/}
         {stickers.map((sticker) => (
           <Tooltip

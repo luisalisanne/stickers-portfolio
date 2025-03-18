@@ -41,17 +41,17 @@ function About() {
           </div>
         </header>
         <div className="align-center mx-auto flex w-3/4 flex-col items-center gap-4">
-          <h2 className="text-lg text-orange-500">{t("about.title")}</h2>
+          <h2 className="text-lg text-orange-500">{t("about.heading")}</h2>
           <img
             className="w-48 rounded-full"
             src="src/assets/images/luisa.jpg"
             alt=""
           />
+          <h3 className="text-md font-bold">{t("about.subheading")}</h3>
           <p>{t("about.text")}</p>
         </div>
-        <div className="mx-auto flex h-[20%] w-3/4 flex-col gap-1 border-t-1 border-dotted pt-2">
-          <p>{t("about.contact.text")}</p>
-
+        <div className="mx-auto flex h-[20%] w-3/4 flex-col gap-1 border-t-1 border-dotted pt-4 text-center">
+          <p className="font-bold">{t("about.contact.text")}</p>
           <a
             href="mailto:forck@posteo.de"
             className="text-orange-500 underline hover:text-pink-500"

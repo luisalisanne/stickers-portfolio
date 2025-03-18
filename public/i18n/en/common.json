@@ -1,14 +1,15 @@
 {
   "global": { "language": { "switch": "de" } },
   "about": {
-    "buttonTextOpen": "about",
-    "buttonTextClose": "hide",
-    "title": "Hi, I'm Luisa :)",
-    "text": "Holding a degree in Cultural Studies and Sustainability in Humanities, I made the leap into the tech industry in 2021, driven by a hunger for continual growth and exploration. My journey through various social and cultural institutions has deeply shaped my creativity and interpersonal skills, enriching my problem-solving abilities and collaborative spirit. Rooted in strong analytical and organizational skills, I actively foster innovation by weaving together diverse perspectives and interests. Passionate about sustainability and diversity in tech, I'm dedicated to making a positive impact by fostering inclusivity, promoting equitable representation, and driving meaningful change.",
+    "buttonTextOpen": "About",
+    "buttonTextClose": "Hide",
+    "heading": "Hi, I'm Luisa :)",
+    "subheading": "Why a sticker portfolio?",
+    "text": "It all started with my first programming workshop, where I had my first glimpse into the world of coding. Since then, I’ve been collecting stickers to mark key milestones along my journey—from my first steps with Django Girls to my full-stack training, my first jobs, and passion projects. Each sticker represents a significant moment, a valuable experience, or a community that has inspired me. I'm especially passionate about sustainability and diversity in tech. I'm committed to making IT more accessible, advocating for fair representation, and using technology to drive positive change. And my journey is far from over—I’m excited to see which sticker I’ll add next!",
     "contact": {
       "text": "Would you like to get in touch?",
-      "email": "Reach out via email",
-      "linkedin": "Add me on LinkedIn",
+      "email": "Send me an email",
+      "linkedin": "Message me on LinkedIn",
       "github": "Check out my GitHub profile"
     }
   },
@@ -16,110 +17,99 @@
     {
       "id": 1,
       "title": "Django Girls",
-      "year": 2019,
-      "text": "Meine erste Zeilen Code",
+      "text": "I wrote my first lines of code in autumn 2019 at a Django Girls workshop. At the time, I was completing my master’s in Cultural Studies at the University of Leipzig and had just finished what felt like my thousandth internship in the cultural sector, still searching for a career path that truly excited me. Unexpectedly, I found that excitement in coding—and that’s when my laptop started collecting stickers.",
       "src": "src/assets/stickers/djangogirls.png",
-      "url": ""
+      "url": "https://djangogirls.org/en/leipzig/"
     },
     {
       "id": 2,
       "title": "Open Tech School",
-      "year": 2019,
-      "text": "Bei den wöchentlichen offenen Lerntreffen der Open Tech School Leipzig konnte ich ausprobieren, ob mir Programmieren wirklich Spaß macht und im Austausch mit erfahrenen Entwickler*innen Mut und Inspiration für den Karrierewechsel sammeln.",
+      "text": "At Open Tech School Leipzig’s weekly meetups, I had the chance to explore programming in a supportive environment. Talking to experienced developers gave me the confidence and inspiration to pursue a career change.",
       "src": "src/assets/stickers/opentechschool.png",
       "url": "https://www.opentechschool.org/cities/leipzig"
     },
     {
       "id": 3,
       "title": "Digital Career Institute",
-      "year": 2019,
-      "text": "Bei den wöchentlichen offenen Lerntreffen der Open Tech School Leipzig konnte ich ausprobieren, ob mir Programmieren wirklich Spaß macht und im Austausch mit erfahrenen Entwickler*innen Mut und Inspiration für den Karrierewechsel sammeln.",
+      "text": "After completing my master’s in 2020, I decided to take a one-year training course in Full-Stack Web Development. I started with the basics of HTML and CSS before diving into the MERN stack: MongoDB, Express, React, and Node.js. It was a challenging but rewarding year, and I loved every minute of it.",
       "src": "src/assets/stickers/dci.png",
-      "url": ""
+      "url": "https://start.digitalcareerinstitute.org/"
     },
     {
       "id": 4,
       "title": "React.js",
-      "year": 2021,
-      "text": "",
-      "src": "src/assets/stickers/react.png",
-      "url": ""
+      "text": "React was the first framework I learnt during my training. Since 2021, I’ve been using it almost daily, but I’m always keen to explore new frameworks. In general, I love expanding my skill set and thinking outside the box.",
+      "src": "src/assets/stickers/react.png"
     },
     {
       "id": 5,
       "title": "Thinkport GmbH",
-      "year": "2022 bis 2024",
-      "text": "Thinkport war von Anfang 2022 bis Ende 2024 mein erster Arbeitgeber in der IT. Knapp drei aufregende und sehr lehrreiche Jahre, in denen ich wertvolle Praxiserfahrung sammeln konnte und tolle Kolleginnen und Kollegen kennenlernen durfte.",
-      "src": "src/assets/stickers/thinkport.png"
+      "text": "Straight after my training, I joined Thinkport as a frontend developer on a client project for Bayer Crop Science Division. As part of a seven-person Scrum team, I helped design and develop a web application that enables scientists to visualise and analyse their lab results interactively—from initial user research to agile product development and final deployment.",
+      "src": "src/assets/stickers/thinkport.png",
+      "url": "https://thinkport.digital/"
     },
     {
       "id": 6,
       "title": "TypeScript",
-      "year": 2022,
-      "text": "",
-      "src": "src/assets/stickers/typescript.png",
-      "url": ""
+      "text": "Although I first learnt JavaScript during my training, my work experience has been primarily with TypeScript. Its strict typing and improved tooling make development smoother, particularly for large-scale applications. It helps catch bugs early and makes collaboration easier by providing clear structure and type definitions.",
+      "src": "src/assets/stickers/typescript.png"
     },
     {
       "id": 7,
-      "title": "Girls Day",
-      "year": 2023,
-      "text": "",
+      "title": "Girls' Day",
+      "text": "At school, I had almost no exposure to technology—my focus was on languages and the arts. That’s probably why I chose to study Cultural Studies at 19. Looking back, I wouldn’t trade my studies for anything, but I do sometimes wonder what it would have been like to discover programming a few years earlier. That’s why I think Girls’ Day is such a great initiative, and I was happy to help organise it twice at my company.",
       "src": "src/assets/stickers/girlsday.png"
     },
     {
       "id": 8,
       "title": "FLINTA*DEVS",
-      "year": 2023,
-      "text": "Zusammen mit einigen engagierten Kolleginnen habe ich während der Zeit bei Thinkport ein monatliches Meetup für FLINTA*-Personen gestartet, das uns Entwicklerinnen sowohl zum technischen Wissensaustausch, als auch als Raum für Erfahrungsaustausch und zur Diskussion über Diversität in der Tech Branche diente. ",
+      "text": "While at Thinkport, I co-founded a monthly meetup for FLINTA* developers—a space to share technical knowledge, experiences, and discussions on diversity in tech. These meetings were always incredibly valuable, offering both professional insights and a safe space for open conversations about workplace experiences.",
       "src": "src/assets/stickers/flintadevs.png"
     },
     {
       "id": 9,
       "title": "TailwindCSS",
-      "year": 2022,
-      "text": "",
-      "src": "src/assets/stickers/tailwind.png",
-      "url": ""
+      "text": "I started with classic CSS and SCSS in my training, but at work, I quickly switched to TailwindCSS. This utility-first framework allows for rapid prototyping and keeps styles consistent without needing custom CSS for every component. As someone with a strong eye for design, I appreciate Tailwind’s flexibility—it lets me quickly adjust layouts, adapt designs, and keep my code clean and maintainable.",
+      "src": "src/assets/stickers/tailwind.png"
     },
     {
       "id": 10,
       "title": "Hack for Good",
-      "year": "2022",
-      "text": "Das war mein erster Hackathon, Ende 2022. Mit technischen Skills soziale Projekte zu unterstützen liegt mir am Herzen. ",
+      "text": "This was my first hackathon, and it made me realise how much I enjoy using my tech skills for social impact. Supporting meaningful projects through code is something I’d love to do more of in the future.",
       "src": "src/assets/stickers/hackforgood.png",
       "url": "https://www.hack-for-good.de"
     },
     {
       "id": 11,
       "title": "DiversIT | Cluster IT Mitteldeutschland",
-      "year": "2023",
-      "text": "Bei der Auftaktveranstaltung der Veranstaltungsreihe 'DiversIT: Women in IT', durfte ich mit anderen Frauen aus der IT-Branche bei einer Paneldiskussion darüber sprechen.",
+      "text": "At the launch event of the 'DiversIT: Women in IT' series, I had the chance to take part in a panel discussion with other women in tech about what’s needed to increase diversity in IT. I believe that relatable role models and open conversations are crucial. Meeting other women who also came into tech through unconventional paths was important for me—it showed me that you don’t need to have been great at maths in school or built robots as a child to enjoy programming.",
       "src": "src/assets/stickers/diversit.png",
       "url": "https://it-mitteldeutschland.de/event/diversit-women-in-it/"
     },
     {
       "id": 12,
       "title": "null auf eins e.V. | Workshops",
-      "year": 2023,
-      "text": "Bei den Workshops des Vereins nullaufeins e.V. war ich ein paar Mal als Mentorin dabei. Es ist immer wieder schön, Leute bei ihren ersten Berührungspunkten mit Programmieren zu begleiten, spielerisch Technik auszuprobieren und eigene Erfahrungen teilen zu können.",
+      "text": "I’ve mentored at several workshops run by the association null auf eins e.V. Since I first learnt to code in a similar workshop, I can really relate to the participants and love guiding people through their first experiences with coding, helping them explore technology in a playful way, and sharing my own journey.",
       "src": "src/assets/stickers/nullaufeins.png",
       "url": "https://nullaufeins.org/de/workshops/"
     },
     {
       "id": 13,
       "title": "Thinkport GmbH",
-      "year": "2022 bis 2024",
-      "text": "Nach drei Jahren bei Thinkport habe ich mich entschieden, nach einer neuen beruflichen Herausforderung zu suchen. Mein Wunsch: ein Job mit Verantwortung und Sinn.",
+      "text": "After nearly three exciting and educational years at Thinkport, I decided to look for a new professional challenge. The client project I had worked on throughout my time there was successfully completed, and I felt it was time for something new. So, at the end of 2024, I resigned and began searching for roles where I could combine IT with my social and environmental values.",
       "src": "src/assets/stickers/thinkport.png"
     },
     {
       "id": 14,
       "title": "neuedev IT",
-      "year": 2025,
-      "text": "",
-      "src": "src/assets/stickers/neuedev.png",
-      "url": ""
+      "text": "Since early 2025, I’ve been working as a developer in an IT collective focused on building software for non-profit projects.",
+      "src": "src/assets/stickers/neuedev.png"
+    },
+    {
+      "id": 15,
+      "title": "What's next?",
+      "text": "???",
+      "src": "?"
     }
   ]
 }
