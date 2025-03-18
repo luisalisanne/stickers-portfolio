@@ -4,7 +4,13 @@
     "buttonTextOpen": "über",
     "buttonTextClose": "schließen",
     "title": "Hi, ich bin Luisa :)",
-    "text": "Hier Text auf deutsch"
+    "text": "Hier Text auf deutsch",
+    "contact": {
+      "text": "Möchtest du Kontakt aufnehmen?",
+      "email": "Schick mir eine Mail",
+      "linkedin": "Schreib mir auf LinkedIn",
+      "github": "Schau dir mein GitHub Profil an"
+    }
   },
   "stickers": [
     {

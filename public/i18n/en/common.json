@@ -4,7 +4,13 @@
     "buttonTextOpen": "about",
     "buttonTextClose": "hide",
     "title": "Hi, I'm Luisa :)",
-    "text": "Holding a degree in Cultural Studies and Sustainability in Humanities, I made the leap into the tech industry in 2021, driven by a hunger for continual growth and exploration. My journey through various social and cultural institutions has deeply shaped my creativity and interpersonal skills, enriching my problem-solving abilities and collaborative spirit. Rooted in strong analytical and organizational skills, I actively foster innovation by weaving together diverse perspectives and interests. Passionate about sustainability and diversity in tech, I'm dedicated to making a positive impact by fostering inclusivity, promoting equitable representation, and driving meaningful change."
+    "text": "Holding a degree in Cultural Studies and Sustainability in Humanities, I made the leap into the tech industry in 2021, driven by a hunger for continual growth and exploration. My journey through various social and cultural institutions has deeply shaped my creativity and interpersonal skills, enriching my problem-solving abilities and collaborative spirit. Rooted in strong analytical and organizational skills, I actively foster innovation by weaving together diverse perspectives and interests. Passionate about sustainability and diversity in tech, I'm dedicated to making a positive impact by fostering inclusivity, promoting equitable representation, and driving meaningful change.",
+    "contact": {
+      "text": "Would you like to get in touch?",
+      "email": "Reach out via email",
+      "linkedin": "Add me on LinkedIn",
+      "github": "Check out my GitHub profile"
+    }
   },
   "stickers": [
     {

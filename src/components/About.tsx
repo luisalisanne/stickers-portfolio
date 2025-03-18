@@ -50,37 +50,26 @@ function About() {
           <p>{t("about.text")}</p>
         </div>
         <div className="mx-auto flex h-[20%] w-3/4 flex-col gap-1 border-t-1 border-dotted pt-2">
-          <p>Would you like to get in touch?</p>
-          <p>You can... </p>
-          <ul>
-            <li>
-              Reach out via
-              <a
-                href="mailto:forck@posteo.de"
-                className="text-orange-500 underline hover:text-pink-500"
-              >
-                email
-              </a>
-            </li>
-            <li>
-              Let's connect on
-              <a
-                className="text-orange-500 underline hover:text-pink-500"
-                href="https://www.linkedin.com/in/lforck/"
-              >
-                LinkedIn
-              </a>
-            </li>
-            <li>
-              Check out my profile on
-              <a
-                className="text-orange-500 underline hover:text-pink-500"
-                href="https://www.linkedin.com/in/lforck/"
-              >
-                GitHub
-              </a>
-            </li>
-          </ul>
+          <p>{t("about.contact.text")}</p>
+
+          <a
+            href="mailto:forck@posteo.de"
+            className="text-orange-500 underline hover:text-pink-500"
+          >
+            {t("about.contact.email")}
+          </a>
+          <a
+            className="text-orange-500 underline hover:text-pink-500"
+            href="https://www.linkedin.com/in/lforck/"
+          >
+            {t("about.contact.linkedin")}
+          </a>
+          <a
+            className="text-orange-500 underline hover:text-pink-500"
+            href="https://www.linkedin.com/in/lforck/"
+          >
+            {t("about.contact.github")}
+          </a>
         </div>
       </span>
       {/* Right side of the curtain */}
