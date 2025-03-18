@@ -1,0 +1,105 @@
+{
+  "global": { "language": { "switch": "en" } },
+  "about": {
+    "buttonTextOpen": "über",
+    "buttonTextClose": "schließen",
+    "title": "Hi, ich bin Luisa :)",
+    "text": "Hier Text auf deutsch"
+  },
+  "stickers": [
+    {
+      "id": 1,
+      "title": "Django Girls",
+      "text": "Meine erste Zeilen Code hab ich im Herbst 2019 bei einem Workshop der Django Girls geschrieben. Zu der Zeit hab ich noch Kulturwissenschaften im Master an der Uni Leipzig studiert und hatte gerade mein 1000. Praktikum im Kultursektor abgeschlossen, auf der Suche nach etwas, was mich langfristig begeistern würde. Die Begeisterung habe ich dann im Programmieren gefunden und die Reise ging los.",
+      "src": "src/assets/stickers/djangogirls.png",
+      "url": "https://djangogirls.org/en/leipzig/"
+    },
+    {
+      "id": 2,
+      "title": "Open Tech School",
+      "text": "Bei den wöchentlichen offenen Lerntreffen der Open Tech School Leipzig konnte ich ausprobieren, ob mir Programmieren wirklich Spaß macht und im Austausch mit erfahrenen Entwickler:innen Mut und Inspiration für den Karrierewechsel sammeln.",
+      "src": "src/assets/stickers/opentechschool.png",
+      "url": "https://www.opentechschool.org/cities/leipzig"
+    },
+    {
+      "id": 3,
+      "title": "Digital Career Institute",
+      "text": "Nachdem ich meinen Master 2020 abgeschlossen habe entschied ich mich für eine einjährige Weiterbildung im Bereich Full Stack Web Development. Der Fokus lag dabei auf dem so genannten MERN-Stack: MongoDB, Express, React, Node.js.",
+      "src": "src/assets/stickers/dci.png",
+      "url": "https://start.digitalcareerinstitute.org/"
+    },
+    {
+      "id": 4,
+      "title": "React.js",
+      "text": "React war das erste Framework, das ich im Rahmen der Weiterbildung kennen gelernt habe. Seit 2021 arbeite ich damit nahezu täglich, bin aber freu mich auch, zukünftig noch andere Frameworks zu lernen.",
+      "src": "src/assets/stickers/react.png"
+    },
+    {
+      "id": 5,
+      "title": "Thinkport GmbH",
+      "text": "Direkt im Anschluss an die Weiterbildung hab ich bei Thinkport zu arbeiten, als Frontendentwicklerin in einem Kundenprojekt für die Bayer Crop Science Division. Als Teil eines siebenköpfigen Scrum-Teams war ich für die Konzeption und Entwicklung einer Webapplikation zuständig, die Wissenschaftler:innen die Visualisierung und interaktive Analyse ihrer modellgenerierten Laborergebnisse ermöglicht – von anfänglichen User Interviews über die agile Produktentwicklung bishin zur produktiven Anwendung.",
+      "src": "src/assets/stickers/thinkport.png",
+      "url": "https://thinkport.digital/"
+    },
+    {
+      "id": 6,
+      "title": "TypeScript",
+      "text": "In der Weiterbildung hab ich zwar zuerst JavaScript gelernt, im Beruf dann aber nur noch mit TypeScript gearbeitet.",
+      "src": "src/assets/stickers/typescript.png"
+    },
+    {
+      "id": 7,
+      "title": "Girls Day",
+      "text": "Ich selbst hatte während meiner Schulzeit kaum Berührungspunkte mit Technik, mein Fokus lag auf Sprachen und allen musischen Fächern – so kam es dann wohl auch zum Studium der Kulturwissenschaften, für das ich mich mit 19 entschied. Rückblickend würde ich das Studium nicht missen wollen, aber manchmal denke ich, dass ich meine Begeisterung fürs Programmieren auch gern schon ein paar Jahre früher entdeckt hätte. Den Girls Day finde ich eine gute Sache und ich hab mich gefreut, ihn in der Firma zwei mal mitgestalten zu können.",
+      "src": "src/assets/stickers/girlsday.png"
+    },
+    {
+      "id": 8,
+      "title": "FLINTA*DEVS",
+      "year": 2023,
+      "text": "Zusammen mit einigen engagierten Kolleginnen habe ich während der Zeit bei Thinkport ein monatliches Meetup für FLINTA*-Personen gestartet, das uns Entwicklerinnen sowohl zum technischen Wissensaustausch, als auch als Raum für Erfahrungsaustausch und zur Diskussion über Diversität in der Tech Branche diente. Die Treffen haben immer richtig gut getan, es gab Raum für technische Fragen, aber auch um in einem geschützten Raum über Erfahrungen aus dem Arbeitsalltag zu sprechen.",
+      "src": "src/assets/stickers/flintadevs.png"
+    },
+    {
+      "id": 9,
+      "title": "TailwindCSS",
+      "text": "Zunächst hab ich in meiner Weiterbildung klassisches CSS und SCSS gelernt, im Projekt bei der Arbeit dann täglich mit TailwindCSS gearbeitet.",
+      "src": "src/assets/stickers/tailwind.png"
+    },
+    {
+      "id": 10,
+      "title": "Hack for Good",
+      "text": "Das war mein erster Hackathon. Mit technischen Skills soziale Projekte zu unterstützen liegt mir am Herzen.",
+      "src": "src/assets/stickers/hackforgood.png",
+      "url": "https://www.hack-for-good.de"
+    },
+    {
+      "id": 11,
+      "title": "DiversIT | Cluster IT Mitteldeutschland",
+      "text": "Bei der Auftaktveranstaltung der Veranstaltungsreihe 'DiversIT: Women in IT', durfte ich mit anderen Frauen aus der IT-Branche bei einer Paneldiskussion darüber sprechen.",
+      "src": "src/assets/stickers/diversit.png",
+      "url": "https://it-mitteldeutschland.de/event/diversit-women-in-it/"
+    },
+    {
+      "id": 12,
+      "title": "null auf eins e.V. | Workshops",
+      "text": "Bei den Workshops des Vereins nullaufeins e.V. war ich ein paar Mal als Mentorin dabei. Da ich selbst auch bei einem solchen Workshop meine ersten Zeilen Code geschrieben habe, kann ich mich gut in Lage die Teilnehmerinnen hineinversetzen und freu mich, nun Leute bei ihren ersten Berührungspunkten mit Programmieren zu begleiten, spielerisch Technik auszuprobieren und eigene Erfahrungen teilen zu können.",
+      "src": "src/assets/stickers/nullaufeins.png",
+      "url": "https://nullaufeins.org/de/workshops/"
+    },
+    {
+      "id": 13,
+      "title": "Thinkport GmbH",
+      "year": "2022 bis 2024",
+      "text": "Nach knapp drei auf vielen Ebenen sehr aufregenden und lehrreichen Jahren bei Thinkport habe ich mich entschieden, nach einer neuen beruflichen Herausforderung zu suchen. Das Kundenprojekt war abgeschlossen und ich hatte das Gefühl, es ist Zeit für etwas Neues. Also habe ich zu Ende 2024 gekündigt und angefangen die Fühler nach Jobs auszustrecken, in denen ich die Arbeit in der IT mit meinen sozialen und ökologischen Ansprüchen verbinden kann.",
+      "src": "src/assets/stickers/thinkport.png"
+    },
+    {
+      "id": 14,
+      "title": "neuedev IT",
+      "text": "Seit Anfang 2025 arbeite ich als Entwicklerin in einem IT-Kollektiv, das sich der Entwicklung technischer Lösungen für gemeinnützige Projekte verschrieben hat.",
+      "src": "src/assets/stickers/neuedev.png",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "global": { "language": { "switch": "de" } },
+  "about": {
+    "buttonTextOpen": "about",
+    "buttonTextClose": "hide",
+    "title": "Hi, I'm Luisa :)",
+    "text": "Holding a degree in Cultural Studies and Sustainability in Humanities, I made the leap into the tech industry in 2021, driven by a hunger for continual growth and exploration. My journey through various social and cultural institutions has deeply shaped my creativity and interpersonal skills, enriching my problem-solving abilities and collaborative spirit. Rooted in strong analytical and organizational skills, I actively foster innovation by weaving together diverse perspectives and interests. Passionate about sustainability and diversity in tech, I'm dedicated to making a positive impact by fostering inclusivity, promoting equitable representation, and driving meaningful change."
+  },
+  "stickers": [
+    {
+      "id": 1,
+      "title": "Django Girls",
+      "year": 2019,
+      "text": "Meine erste Zeilen Code",
+      "src": "src/assets/stickers/djangogirls.png",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "Open Tech School",
+      "year": 2019,
+      "text": "Bei den wöchentlichen offenen Lerntreffen der Open Tech School Leipzig konnte ich ausprobieren, ob mir Programmieren wirklich Spaß macht und im Austausch mit erfahrenen Entwickler*innen Mut und Inspiration für den Karrierewechsel sammeln.",
+      "src": "src/assets/stickers/opentechschool.png",
+      "url": "https://www.opentechschool.org/cities/leipzig"
+    },
+    {
+      "id": 3,
+      "title": "Digital Career Institute",
+      "year": 2019,
+      "text": "Bei den wöchentlichen offenen Lerntreffen der Open Tech School Leipzig konnte ich ausprobieren, ob mir Programmieren wirklich Spaß macht und im Austausch mit erfahrenen Entwickler*innen Mut und Inspiration für den Karrierewechsel sammeln.",
+      "src": "src/assets/stickers/dci.png",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "React.js",
+      "year": 2021,
+      "text": "",
+      "src": "src/assets/stickers/react.png",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "Thinkport GmbH",
+      "year": "2022 bis 2024",
+      "text": "Thinkport war von Anfang 2022 bis Ende 2024 mein erster Arbeitgeber in der IT. Knapp drei aufregende und sehr lehrreiche Jahre, in denen ich wertvolle Praxiserfahrung sammeln konnte und tolle Kolleginnen und Kollegen kennenlernen durfte.",
+      "src": "src/assets/stickers/thinkport.png"
+    },
+    {
+      "id": 6,
+      "title": "TypeScript",
+      "year": 2022,
+      "text": "",
+      "src": "src/assets/stickers/typescript.png",
+      "url": ""
+    },
+    {
+      "id": 7,
+      "title": "Girls Day",
+      "year": 2023,
+      "text": "",
+      "src": "src/assets/stickers/girlsday.png"
+    },
+    {
+      "id": 8,
+      "title": "FLINTA*DEVS",
+      "year": 2023,
+      "text": "Zusammen mit einigen engagierten Kolleginnen habe ich während der Zeit bei Thinkport ein monatliches Meetup für FLINTA*-Personen gestartet, das uns Entwicklerinnen sowohl zum technischen Wissensaustausch, als auch als Raum für Erfahrungsaustausch und zur Diskussion über Diversität in der Tech Branche diente. ",
+      "src": "src/assets/stickers/flintadevs.png"
+    },
+    {
+      "id": 9,
+      "title": "TailwindCSS",
+      "year": 2022,
+      "text": "",
+      "src": "src/assets/stickers/tailwind.png",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "title": "Hack for Good",
+      "year": "2022",
+      "text": "Das war mein erster Hackathon, Ende 2022. Mit technischen Skills soziale Projekte zu unterstützen liegt mir am Herzen. ",
+      "src": "src/assets/stickers/hackforgood.png",
+      "url": "https://www.hack-for-good.de"
+    },
+    {
+      "id": 11,
+      "title": "DiversIT | Cluster IT Mitteldeutschland",
+      "year": "2023",
+      "text": "Bei der Auftaktveranstaltung der Veranstaltungsreihe 'DiversIT: Women in IT', durfte ich mit anderen Frauen aus der IT-Branche bei einer Paneldiskussion darüber sprechen.",
+      "src": "src/assets/stickers/diversit.png",
+      "url": "https://it-mitteldeutschland.de/event/diversit-women-in-it/"
+    },
+    {
+      "id": 12,
+      "title": "null auf eins e.V. | Workshops",
+      "year": 2023,
+      "text": "Bei den Workshops des Vereins nullaufeins e.V. war ich ein paar Mal als Mentorin dabei. Es ist immer wieder schön, Leute bei ihren ersten Berührungspunkten mit Programmieren zu begleiten, spielerisch Technik auszuprobieren und eigene Erfahrungen teilen zu können.",
+      "src": "src/assets/stickers/nullaufeins.png",
+      "url": "https://nullaufeins.org/de/workshops/"
+    },
+    {
+      "id": 13,
+      "title": "Thinkport GmbH",
+      "year": "2022 bis 2024",
+      "text": "Nach drei Jahren bei Thinkport habe ich mich entschieden, nach einer neuen beruflichen Herausforderung zu suchen. Mein Wunsch: ein Job mit Verantwortung und Sinn.",
+      "src": "src/assets/stickers/thinkport.png"
+    },
+    {
+      "id": 14,
+      "title": "neuedev IT",
+      "year": 2025,
+      "text": "",
+      "src": "src/assets/stickers/neuedev.png",
+      "url": ""
+    }
+  ]
+}
