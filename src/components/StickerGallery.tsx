@@ -1,9 +1,10 @@
 // import { shuffleStickers } from "../helpers/shuffleStickers";
 import useScreenSize from "../hooks/useScreenSize";
 import { StickerData } from "../types/StickerData";
+import Popover from "./Popover";
 import StickerListItem from "./StickerListItem";
-import Tooltip from "./Tooltip";
-import TooltipContent from "./TooltipContent";
+// import Tooltip from "./Tooltip";
+// import TooltipContent from "./TooltipContent";
 import { useTranslation } from "react-i18next";
 
 function StickerGallery() {
@@ -25,23 +26,7 @@ function StickerGallery() {
       <div className="m-auto grid aspect-16/10 w-[80%] grid-cols-5 grid-rows-3 content-evenly items-center justify-items-center overflow-hidden rounded-2xl bg-[url(/src/assets/images/macbook.png)] bg-cover bg-center p-12">
         {/* For each sticker in the list, render an image item that displays some information on hover*/}
         {stickers.map((sticker) => (
-          <Tooltip
-            side="top"
-            content={
-              <TooltipContent
-                title={sticker.title}
-                text={sticker.text}
-                url={sticker.url}
-              />
-            }
-          >
-            <img
-              className={`border-box peer rounded object-contain peer-hover:opacity-25 has-[~_.peer:hover]:opacity-25 ${stickers.indexOf(sticker) % 2 ? "rotate-10" : "-rotate-10"}`}
-              key={sticker.id}
-              src={sticker.src}
-              alt={sticker.title}
-            />
-          </Tooltip>
+          <Popover sticker={sticker} />
         ))}
       </div>
     </>
