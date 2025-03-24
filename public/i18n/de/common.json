@@ -45,7 +45,7 @@
       "id": 5,
       "title": "Thinkport GmbH",
       "text": "Direkt im Anschluss an die Weiterbildung hab ich angefangen bei Thinkport zu arbeiten, als Frontendentwicklerin in einem Kundenprojekt für die Bayer Crop Science Division. Als Teil eines siebenköpfigen Scrum-Teams war ich für die Konzeption und Entwicklung einer Webapplikation zuständig, die Wissenschaftler:innen die Visualisierung und interaktive Analyse ihrer modellgenerierten Laborergebnisse ermöglicht – von anfänglichen User Interviews über die agile Produktentwicklung bishin zur produktiven Anwendung.",
-      "src": "src/assets/stickers/thinkport.png",
+      "src": "src/assets/stickers/thinkport1.png",
       "url": "https://thinkport.digital/"
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": 8,
       "title": "FLINTA*DEVS",
-      "text": "Zusammen mit einigen engagierten Kolleginnen habe ich während der Zeit bei Thinkport ein monatliches Meetup für FLINTA*-Personen gestartet, das uns Entwicklerinnen sowohl zum technischen Wissensaustausch, als auch als Raum für Erfahrungsaustausch und zur Diskussion über Diversität in der Tech Branche diente. Die Treffen haben immer richtig gut getan, es gab Zeit für berufliche Fragen, aber auch die Möglichkeit, in einem geschützten Raum über Erfahrungen aus dem Arbeitsalltag zu sprechen.",
+      "text": "Zusammen mit einigen engagierten Kolleginnen habe ich während der Zeit bei Thinkport ein monatliches Meetup für FLINTA*-Personen gestartet, das uns Entwicklerinnen sowohl zum Wissensaustausch, als auch als Raum für Erfahrungsaustausch und zur Diskussion über Diversität in der Tech Branche diente. Die Treffen haben immer richtig gut getan, es gab Zeit für technische Fragen, aber auch die Möglichkeit, in einem geschützten Raum über Erfahrungen aus dem Arbeitsalltag zu sprechen.",
       "src": "src/assets/stickers/flintadevs.png"
     },
     {
@@ -97,20 +97,13 @@
       "id": 13,
       "title": "Thinkport GmbH",
       "text": "Nach knapp drei auf vielen Ebenen sehr aufregenden und lehrreichen Jahren bei Thinkport habe ich mich entschieden, nach einer neuen beruflichen Herausforderung zu suchen. Das Kundenprojekt, an dem ich während der gesamten Zeit dort gearbeitet hatte, war erfolgreich abgeschlossen und ich hatte das Gefühl, es ist Zeit für etwas Neues. Also habe ich zu Ende 2024 gekündigt und angefangen die Fühler nach Jobs auszustrecken, in denen ich die Arbeit in der IT mit meinen sozialen und ökologischen Ansprüchen verbinden kann.",
-      "src": "src/assets/stickers/thinkport.png"
+      "src": "src/assets/stickers/thinkport2.png"
     },
     {
       "id": 14,
-      "title": "neuedev IT",
-      "text": "Seit Anfang 2025 arbeite ich als Entwicklerin in einem IT-Kollektiv, das seinen Fokus auf die Entwicklung vom Software für gemeinnützige Projekte legt.",
-      "src": "src/assets/stickers/neuedev.png",
-      "url": ""
-    },
-    {
-      "id": 15,
       "title": "Was kommt als nächstes?",
       "text": "???",
-      "src": "?"
+      "src": "src/assets/stickers/whatsnext.png"
     }
   ]
 }

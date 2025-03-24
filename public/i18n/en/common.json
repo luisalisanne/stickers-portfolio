@@ -45,7 +45,7 @@
       "id": 5,
       "title": "Thinkport GmbH",
       "text": "Straight after my training, I joined Thinkport as a frontend developer on a client project for Bayer Crop Science Division. As part of a seven-person Scrum team, I helped design and develop a web application that enables scientists to visualise and analyse their lab results interactively—from initial user research to agile product development and final deployment.",
-      "src": "src/assets/stickers/thinkport.png",
+      "src": "src/assets/stickers/thinkport1.png",
       "url": "https://thinkport.digital/"
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": 8,
       "title": "FLINTA*DEVS",
-      "text": "While at Thinkport, I co-founded a monthly meetup for FLINTA* developers—a space to share technical knowledge, experiences, and discussions on diversity in tech. These meetings were always incredibly valuable, offering both professional insights and a safe space for open conversations about workplace experiences.",
+      "text": "While at Thinkport, I co-founded a monthly meetup for FLINTA* developers—a space to share knowledge, experiences, and discussions on diversity in tech. These meetings were always incredibly valuable, offering both professional insights and a safe space for open conversations about workplace experiences.",
       "src": "src/assets/stickers/flintadevs.png"
     },
     {
@@ -97,19 +97,13 @@
       "id": 13,
       "title": "Thinkport GmbH",
       "text": "After nearly three exciting and educational years at Thinkport, I decided to look for a new professional challenge. The client project I had worked on throughout my time there was successfully completed, and I felt it was time for something new. So, at the end of 2024, I resigned and began searching for roles where I could combine IT with my social and environmental values.",
-      "src": "src/assets/stickers/thinkport.png"
+      "src": "src/assets/stickers/thinkport2.png"
     },
     {
       "id": 14,
-      "title": "neuedev IT",
-      "text": "Since early 2025, I’ve been working as a developer in an IT collective focused on building software for non-profit projects.",
-      "src": "src/assets/stickers/neuedev.png"
-    },
-    {
-      "id": 15,
       "title": "What's next?",
       "text": "???",
-      "src": "?"
+      "src": "src/assets/stickers/whatsnext.png"
     }
   ]
 }

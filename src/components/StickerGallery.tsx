@@ -36,7 +36,7 @@ function StickerGallery() {
             }
           >
             <img
-              className={`border-box peer object-contain peer-hover:opacity-25 has-[~_.peer:hover]:opacity-25 ${stickers.indexOf(sticker) % 2 ? "rotate-10" : "-rotate-15"}`}
+              className={`border-box peer rounded object-contain peer-hover:opacity-25 has-[~_.peer:hover]:opacity-25 ${stickers.indexOf(sticker) % 2 ? "rotate-10" : "-rotate-10"}`}
               key={sticker.id}
               src={sticker.src}
               alt={sticker.title}
