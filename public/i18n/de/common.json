@@ -5,7 +5,7 @@
     "buttonTextClose": "schließen",
     "heading": "Hi, ich bin Luisa :)",
     "subheading": "Warum ein Sticker-Portfolio?",
-    "text": "Alles begann mit meinem ersten Programmier-Workshop, bei dem ich zum ersten Mal die Welt des Codens für mich entdeckte. Seitdem sammle ich Sticker von den wichtigsten Stationen meiner Reise: von meinen ersten Schritten mit den Django Girls über meine Ausbildung im Full Stack Development bis hin zu meinen ersten Jobs und Herzensprojekten in der IT. Jeder Sticker steht für einen besonderen Moment, eine wertvolle Erfahrung oder eine Community, die mich inspiriert hat. Besonders am Herzen liegen mir Nachhaltigkeit und Diversität in der Tech-Welt. Ich setze mich dafür ein, mehr Menschen den Zugang zur IT zu erleichtern, gerechte Repräsentation zu fördern und durch Technologie einen positiven Wandel voranzutreiben. Meine Reise geht weiter – ich bin gespannt, welchen Sticker ich als Nächstes aufkleben werde!",
+    "text": "Alles begann mit meinem ersten Programmier-Workshop, bei dem ich zum ersten Mal die Welt des Codens für mich entdeckte. Seitdem sammle ich Sticker von den wichtigsten Stationen meiner Reise: von meinen ersten Schritten mit den Django Girls über meine Ausbildung im Full Stack Development bis hin zu meinen ersten Jobs und Projekten in der IT. Jeder Sticker steht für einen besonderen Moment, eine wertvolle Erfahrung oder eine Community, die mich inspiriert hat. Besonders am Herzen liegen mir Nachhaltigkeit und Diversität in der Tech-Welt. Ich setze mich dafür ein, mehr Menschen den Zugang zur IT zu erleichtern, gerechte Repräsentation zu fördern und durch Technologie einen positiven Wandel voranzutreiben. Meine Reise geht weiter – ich bin gespannt, welchen Sticker ich als Nächstes aufkleben werde!",
     "contact": {
       "text": "Möchtest du Kontakt aufnehmen?",
       "email": "Schick mir eine Mail",
@@ -101,8 +101,15 @@
     },
     {
       "id": 14,
+      "title": "Jugend Hackt",
+      "text": "Im April 2025 war ich zum ersten Mal als Mentorin bei Jugend hackt in Dresden dabei – eine interessante Erfahrung, die mir neue Einblicke in die Zusammenarbeit mit technikbegeisterten Jugendlichen gegeben hat. Die Projekte und Gespräche waren spannend, und ich habe einiges dazugelernt. ",
+      "src": "src/assets/stickers/jugendhackt.png",
+      "url": "https://jugendhackt.org/"
+    },
+    {
+      "id": 15,
       "title": "Was kommt als nächstes?",
-      "text": "???",
+      "text": "Ich bin gespannt, welche Sticker als Nächstes dazukommen – und vor allem, welche Erfahrungen, Projekte und Begegnungen dahinterstehen werden. Jeder neue Sticker steht für einen Schritt auf meinem Weg, für etwas, das mich weiterbringt oder inspiriert. Ich freue mich darauf, mein Portfolio Stück für Stück zu erweitern und bin neugierig, wohin mich die nächsten Stationen führen.",
       "src": "src/assets/stickers/whatsnext.png"
     }
   ]

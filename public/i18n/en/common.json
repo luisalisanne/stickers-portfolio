@@ -5,7 +5,7 @@
     "buttonTextClose": "Hide",
     "heading": "Hi, I'm Luisa :)",
     "subheading": "Why a sticker portfolio?",
-    "text": "It all started with my first programming workshop, where I had my first glimpse into the world of coding. Since then, I’ve been collecting stickers to mark key milestones along my journey—from my first steps with Django Girls to my full-stack training, my first jobs, and passion projects. Each sticker represents a significant moment, a valuable experience, or a community that has inspired me. I'm especially passionate about sustainability and diversity in tech. I'm committed to making IT more accessible, advocating for fair representation, and using technology to drive positive change. And my journey is far from over—I’m excited to see which sticker I’ll add next!",
+    "text": "It all started with my first programming workshop, where I had my first glimpse into the world of coding. Since then, I’ve been collecting stickers to mark key milestones along my journey — from my first steps with Django Girls to my full-stack training, my first jobs, and projects. Each sticker represents a significant moment, a valuable experience, or a community that has inspired me. I'm especially passionate about sustainability and diversity in tech. I'm committed to making IT more accessible, advocating for fair representation, and using technology to drive positive change. And my journey is far from over — I’m excited to see which sticker I’ll add next!",
     "contact": {
       "text": "Would you like to get in touch?",
       "email": "Send me an email",
@@ -101,8 +101,15 @@
     },
     {
       "id": 14,
+      "title": "Jugend Hackt",
+      "text": "In April 2025, I took part as a mentor at Jugend hackt in Dresden for the first time – an interesting experience that gave me new insights into working with tech-savvy young people. The projects and conversations were engaging, and I learned a lot along the way.",
+      "src": "src/assets/stickers/jugendhackt.png",
+      "url": "https://jugendhackt.org/"
+    },
+    {
+      "id": 15,
       "title": "What's next?",
-      "text": "???",
+      "text": "I'm curious to see which stickers will be added next – and, more importantly, what experiences, projects, and encounters they'll represent. Each new sticker marks a step on my journey, something that inspires me or helps me grow. I'm looking forward to gradually expanding my portfolio and excited to see where the next stages will take me.",
       "src": "src/assets/stickers/whatsnext.png"
     }
   ]
